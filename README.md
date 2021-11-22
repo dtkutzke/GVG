@@ -7,6 +7,7 @@ points in a given domain (see [Wiki](https://en.wikipedia.org/wiki/Voronoi_diagr
 ## Usage
 ```python
 python fast_gvd.py environment_file_name start_x start_y goal_x goal_y
+```
 
 ## A few notes
 This is a brute force calculation that iterates over every point in the 
